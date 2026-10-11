@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+*_env/
+__pycache__/
+*.pyc
+node_modules/
+.pio/
+build/
+dist/
+.ipynb_checkpoints/
+*.log
